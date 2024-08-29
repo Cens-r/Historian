@@ -1,0 +1,12 @@
+{
+  "name": "historian",
+  "tree": {
+    "$path": "build/package.luau",
+    "Packages": {
+      "$path": "Packages",
+      "Historian": {
+        "$path": "default.project.json"
+      }
+    }
+  }
+}
