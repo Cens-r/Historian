@@ -1,7 +1,7 @@
 --!strict
 
 local RunService = game:GetService("RunService")
-local Packages = script.Parent.packages
+local Packages = script.Parent.Parent
 
 local GenericLerp = require(script.Parent.GenericLerp)
 

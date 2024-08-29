@@ -1,0 +1,14 @@
+{
+  "name": "historian",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages",
+        "Historian": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 --!strict
 
-local CensorUtils = require(script.packages.CensorUtils)
+local CensorUtils = require(script.Parent.CensorUtils)
 type Table<K, V> = CensorUtils.Table<K, V>
 
 local Queue = CensorUtils.Queue
