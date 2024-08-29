@@ -1,0 +1,9 @@
+{
+  "name": "history",
+  "tree" : {
+    "packages": {
+      "$path": "Packages"
+    },
+    "$path": "src"
+  }
+}

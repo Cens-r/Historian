@@ -1,0 +1,14 @@
+[package]
+name = "cens-r/historian"
+description = "A universal replay module built for Roblox."
+
+version = "0.1.0"
+license = "MIT"
+
+authors = ["Censor"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+
+[dependencies]
+CensorUtils = "cens-r/censor-utils@0.2.3"
+LemonSignal = "data-oriented-house/lemonsignal@1.10.0"
