@@ -2,12 +2,15 @@
 name = "cens-r/historian"
 description = "A universal replay module built for Roblox."
 
-version = "0.1.1"
+version = "0.1.2"
 license = "MIT"
-
 authors = ["Censor"]
+
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml"]
 
 [dependencies]
 CensorUtils = "cens-r/censor-utils@0.2.3"
